@@ -43,6 +43,7 @@ py -2.7-32 parse_turmas.py ..\db\20251_FLO.xml ..\db\20251_JOI.xml ..\db\20251_C
 ```
 ============================================================================
 
+```
 Os dados relativos a horas_aula e vagas são em números, não strings.
 Os horários são no formato disponibilizado pela UFSC:
 "2.1010-2 / ARA-ARA209"
@@ -53,6 +54,7 @@ Os horários são no formato disponibilizado pela UFSC:
  \-------------------- dia da semana
 
 Os professores são dispostos numa lista de strings.
+```
 
 ============================================================================
 
