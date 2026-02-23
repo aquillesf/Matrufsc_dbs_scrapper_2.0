@@ -13,6 +13,7 @@ NECESSÁRIO TER PARA EXECUTAR O CÓDIGO:
 Python 2.17
 PIP
 BeautifulSoup
+
 ============================================================================
 
 O arquivo get_turmas.py pega o CAGR e faz um scrapping, ele cria um arquivo db dentro da pasta "py", e nessa pasta ele guarda todos os XML's e HTML's que conseguiu baixar.
