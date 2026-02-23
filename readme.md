@@ -11,7 +11,9 @@ Vou em seguida, explicar como usar essa ferramenta, os requisitos necessários, 
 NECESSÁRIO TER PARA EXECUTAR O CÓDIGO:
 
 Python 2.17
+
 PIP
+
 BeautifulSoup
 
 ============================================================================
